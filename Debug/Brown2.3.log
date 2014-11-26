@@ -1,0 +1,32 @@
+﻿生成启动时间为 2014/1/2 23:34:03。
+     1>项目“C:\Users\lenovo\Desktop\围棋AI中期_undecidable\test3\Brown2.3\Brown2.3\Brown2.3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ComplexEvaluator.cpp FastBoard.cpp MC_RAVE_Search.cpp brown.cpp main.cpp
+         main.cpp
+     1>c:\users\lenovo\desktop\围棋ai中期_undecidable\test3\brown2.3\brown2.3\mc_rave_search.h(20): warning C4244: “参数”: 从“float”转换到“uint32”，可能丢失数据
+         brown.cpp
+     1>c:\users\lenovo\desktop\围棋ai中期_undecidable\test3\brown2.3\brown2.3\mc_rave_search.h(20): warning C4244: “参数”: 从“float”转换到“uint32”，可能丢失数据
+         MC_RAVE_Search.cpp
+     1>c:\users\lenovo\desktop\围棋ai中期_undecidable\test3\brown2.3\brown2.3\mc_rave_search.h(20): warning C4244: “参数”: 从“float”转换到“uint32”，可能丢失数据
+     1>c:\users\lenovo\desktop\围棋ai中期_undecidable\test3\brown2.3\brown2.3\mc_rave_search.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+         FastBoard.cpp
+         正在生成代码...
+         正在编译...
+         ComplexEvaluator.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Desktop\围棋AI中期_undecidable\test3\Brown2.3\Debug\Brown2.3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lenovo\Desktop\围棋AI中期_undecidable\test3\Brown2.3\Debug\Brown2.3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Desktop\围棋AI中期_undecidable\test3\Brown2.3\Debug\Brown2.3.lib" /MACHINE:X86 Debug\ComplexEvaluator.obj
+         Debug\FastBoard.obj
+         Debug\GoBoard.obj
+         Debug\gtp.obj
+         Debug\brown.obj
+         Debug\main.obj
+         Debug\MC_RAVE_Search.obj
+         Debug\UctSearch.obj
+         Debug\UCT_Simulator.obj
+         Brown2.3.vcxproj -> C:\Users\lenovo\Desktop\围棋AI中期_undecidable\test3\Brown2.3\Debug\Brown2.3.exe
+     1>已完成生成项目“C:\Users\lenovo\Desktop\围棋AI中期_undecidable\test3\Brown2.3\Brown2.3\Brown2.3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.97
