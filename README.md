@@ -7,3 +7,5 @@ Start from the root node, pick up the child node maximizing the winning probalil
 ### Usage:
 
 Firstly setup GoGUI(http://gogui.sourceforge.net/) Then complie all the cpp files, import the executable files to GUI. Enjoy it.
+
+updated by chaozc
